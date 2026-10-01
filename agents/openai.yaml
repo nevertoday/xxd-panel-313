@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 313"
+  short_description: "手帐私章：上半保留原照，下半把主体收成手帐里反复画过的私人符号"
+  default_prompt: "Use $xxd-panel-313 to transform my photograph following the complete canonical source brief."
