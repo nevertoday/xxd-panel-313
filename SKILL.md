@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-313
-description: "Create XXD Panel 313 raster artwork: a faithful photograph paired with one personal symbol an artist might redraw in a notebook, hesitant line and spot color. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-313 or asks for this 手帐私章 style."
+description: "XXD Panel 313｜Private Journal Mark: keeps the photo and leaves one small personal mark of its subject, like a symbol an artist has redrawn many times in a private journal or indie zine — a simple, strong outline, only a few key features, incomplete but recognisable information and slightly clumsy proportions. Flat spot colours with imperfect hand-drawn lines that keep a little hesitation, repetition and accident, tactile paper grain and print error; a limited palette from the photo built on a few colours and black-and-white contrast; extreme whitespace around one small focus, and tiny letters, numbers or handwritten notes like an artist's sketch remarks. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-313 or asks for a zine-style personal mark, naive character logo or hand-drawn journal symbol from a photo."
 ---
 
 # XXD Panel 313

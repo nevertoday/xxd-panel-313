@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 313｜Private Journal Mark: keeps the photo and leaves one small personal mark of its subject, like a symbol an artist has redrawn many times in a private journal or indie zine — a simple, strong outline, only a few key features, incomplete but recognisable information and slightly clumsy proportions. Flat spot colours with imperfect hand-drawn lines that keep a little hesitation, repetition and accident, tactile paper grain and print error; a limited palette from the photo built on a few colours and black-and-white contrast; extreme whitespace around one small focus, and tiny letters, numbers or handwritten notes like an artist's sketch remarks. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-313 or asks for a zine-style personal mark, naive character logo or hand-drawn journal symbol from a photo.",
+  "short_description": "手帐私章：把照片主体收成手帐里反复画过、线稿带犹豫和重复的私人小符号",
+  "zh-CN": {
+    "name": "手帐私章",
+    "tagline": "保留原照片，把主体收成像在手帐里反复画过的一枚私人符号。",
+    "look": "照片保持原样，设计部分像艺术家在本子上画过很多遍后留下的那个符号：外轮廓简单有力，只留几处关键特征，信息不完整也认得出，比例略笨。平涂的专色块配上没有清稿的手绘线，线里留着一点犹豫、重复和偶然。纸张颗粒和印刷误差都在，颜色从照片里取少数几种，靠色块和黑白关系分清。符号很小，四周是大片空白；周围散着几个字母、编号或手写备注，像草稿上的签注。",
+    "traits": ["私人手帐", "作者符号", "犹豫线稿", "色块", "极端留白"],
+    "good": [
+      "有个性、有小特征的主体：戴帽子的人、歪头的狗、一辆旧摩托、一只缺口的杯子",
+      "属于自己的日常记录：每天经过的路牌、常去的咖啡店、自家的阳台",
+      "想做成个人签名图形、小志封面、头像或贴纸的照片"
+    ],
+    "poor": [
+      "想要整洁、精确的标志或干净线稿的需求",
+      "主体很多、需要完整场景交代的照片：街头群像、展会现场",
+      "想要精致动漫、标准吉祥物或复杂角色设计的效果"
+    ]
+  },
+  "en": {
+    "name": "Private Journal Mark",
+    "tagline": "Keeps your photo and leaves the subject as a private symbol that looks redrawn many times in a notebook.",
+    "look": "The photo stays as it is. The design looks like the symbol an artist is left with after drawing it again and again in a notebook: a simple, strong outline, only a few key features, incomplete yet recognisable, with slightly clumsy proportions. Flat spot-colour shapes meet unpolished hand-drawn lines that keep some hesitation, repetition and accident. Paper grain and print errors remain, and a few colours from the photo are separated by colour blocks and black-and-white contrast. The symbol is tiny in a large empty page, with a few letters, numbers or handwritten notes scattered nearby like remarks on a sketch.",
+    "traits": ["Private journal", "Author's symbol", "Hesitant linework", "Colour blocks", "Extreme whitespace"],
+    "good": [
+      "Subjects with character and small quirks: a person in a hat, a dog tilting its head, an old motorbike, a chipped cup",
+      "Your own daily records: a street sign you pass every day, a favourite café, your balcony",
+      "Photos you want as a personal signature graphic, a zine cover, an avatar or a sticker"
+    ],
+    "poor": [
+      "Requests for a tidy, precise logo or clean finished linework",
+      "Photos with many subjects that need the whole scene: street crowds, trade-show floors",
+      "Wanting polished anime, a standard mascot or complex character design"
+    ]
+  },
+  "ja": {
+    "name": "手帳の私印",
+    "tagline": "写真はそのままに、主役を手帳に何度も描き直したような私的な記号にします。",
+    "look": "写真はそのまま残し、デザイン側は作家がノートに何度も描いたあとに残った記号のようです。外形はシンプルで力強く、決め手になる特徴だけを残し、情報は不完全でも見分けがつき、比率は少し不器用です。平塗りの特色の面に清書していない手描きの線を重ね、線にはためらい、重ね描き、偶然が少し残ります。紙の粒子と印刷のずれもそのままで、写真から取った数色を色面と白黒の対比で描き分けます。シンボルはごく小さく、広い余白の中にあり、近くにアルファベット、番号、手書きのメモが下書きの書き込みのように散らばります。",
+    "traits": ["私的な手帳", "作者の記号", "ためらう線", "色面", "極端な余白"],
+    "good": [
+      "個性や小さな特徴のある主役：帽子の人、首をかしげる犬、古いバイク、欠けたカップ",
+      "自分だけの日々の記録：毎日通る道の標識、行きつけのカフェ、自宅のベランダ",
+      "個人のサイン図形、ZINE の表紙、アイコン、ステッカーにしたい写真"
+    ],
+    "poor": [
+      "整った正確なロゴや、きれいに清書した線を求める場合",
+      "主役が多く場面全体を伝える必要がある写真：街の群衆、展示会の会場",
+      "精緻なアニメ風、定番のマスコット、複雑なキャラクターデザインを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "수첩 속 개인 표식",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 수첩에 여러 번 다시 그린 듯한 개인 기호로 남깁니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 작가가 노트에 수없이 그린 뒤 남은 기호처럼 보입니다. 외곽선은 단순하고 힘이 있으며, 핵심 특징 몇 가지만 남아 정보가 불완전해도 알아볼 수 있고, 비율은 조금 서툽니다. 평면 별색 면에 다듬지 않은 손그림 선을 더하고, 선에는 망설임과 덧그림과 우연이 조금 남습니다. 종이 결과 인쇄 오차도 그대로이며, 사진에서 고른 몇 가지 색을 색면과 흑백 대비로 구분합니다. 심벌은 아주 작게 넓은 여백 속에 있고, 주변에 알파벳, 번호, 손글씨 메모가 초안의 메모처럼 흩어져 있습니다.",
+    "traits": ["개인 수첩", "작가의 기호", "망설이는 선", "색면", "극단적 여백"],
+    "good": [
+      "개성과 작은 특징이 있는 주인공: 모자 쓴 사람, 고개를 갸웃한 강아지, 낡은 오토바이, 이 빠진 컵",
+      "나만의 일상 기록: 매일 지나는 표지판, 단골 카페, 우리 집 베란다",
+      "개인 서명 그래픽, 진(zine) 표지, 프로필 사진, 스티커로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "깔끔하고 정밀한 로고나 정리된 선화를 원하는 경우",
+      "주인공이 많아 장면 전체를 전해야 하는 사진: 거리 군중, 전시회장",
+      "정교한 애니메이션풍, 표준 마스코트, 복잡한 캐릭터 디자인을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ختم المذكرات الخاص",
+    "tagline": "يحتفظ بصورتك ويترك عنصرها رمزاً شخصياً كأنه رُسم مرات كثيرة في دفتر خاص.",
+    "look": "تبقى الصورة كما هي، ويبدو التصميم كالرمز الذي يبقى لدى فنان بعد أن رسمه مرة بعد مرة في دفتره: خط خارجي بسيط وقوي، وبضع سمات أساسية فقط، ومعلومات ناقصة لكنها كافية للتعرّف، ونِسب خرقاء قليلاً. مساحات مسطحة بألوان خاصة تلتقي بخطوط يدوية غير منقّحة فيها شيء من التردد والتكرار والمصادفة. تبقى حبيبات الورق وأخطاء الطباعة، وتُفصل ألوان قليلة من الصورة بالمساحات اللونية وتباين الأبيض والأسود. الرمز صغير جداً في صفحة فارغة واسعة، وحوله بضعة أحرف أو أرقام أو ملاحظات بخط اليد كتعليقات على مسودة.",
+    "traits": ["دفتر خاص", "رمز المؤلف", "خطوط مترددة", "مساحات لونية", "فراغ شديد"],
+    "good": [
+      "عناصر لها شخصية وتفاصيل صغيرة مميزة: شخص بقبعة، كلب يميل رأسه، دراجة نارية قديمة، كوب مثلوم",
+      "يومياتك الخاصة: لافتة تمر بها كل يوم، مقهاك المفضل، شرفة بيتك",
+      "صور تريدها توقيعاً بصرياً شخصياً أو غلافاً لمجلة مستقلة صغيرة أو صورة شخصية أو ملصقاً"
+    ],
+    "poor": [
+      "طلب شعار مرتّب دقيق أو خطوط نظيفة منقّحة",
+      "صور بعناصر كثيرة تحتاج إلى المشهد كاملاً: حشود الشوارع، قاعات المعارض",
+      "الرغبة في أنمي مصقول أو تميمة نمطية أو تصميم شخصيات معقد"
+    ]
+  }
+}
